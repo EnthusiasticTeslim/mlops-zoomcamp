@@ -25,3 +25,7 @@ If you wish to contribute directly from the remote server, connect your Github t
 1. Create a ssh key using `ssh-keygen -t ed25519 -C "yourEmail@mail.com`. this should create 2 files (`ed25519` & `ed25519.pub`) in the `~/.ssh/` directory
 2. Go to your github profile setting, find the SSH and GCP keys option and copy the info in ed25519.pub into the text bar. use any title 
 3. do `git clone git@github.com:EnthusiasticTeslim/mlops-zoomcamp.git`.
+
+# References
+1. SSH in Github: https://www.youtube.com/watch?v=X40b9x9BFGo
+2. GCP: https://www.youtube.com/watch?v=PD83mmyAbs4
