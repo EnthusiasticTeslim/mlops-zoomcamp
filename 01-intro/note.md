@@ -28,4 +28,4 @@ If you wish to contribute directly from the remote server, connect your Github t
 
 # References
 1. SSH in Github: https://www.youtube.com/watch?v=X40b9x9BFGo
-2. GCP: https://www.youtube.com/watch?v=PD83mmyAbs4
+2. GCP: https://www.youtube.com/watch?v=0Bjx3Ra8PRM
