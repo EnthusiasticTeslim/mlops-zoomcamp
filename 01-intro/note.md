@@ -22,9 +22,9 @@ This generates 2 files namely `name-of-IdentityFile` and `name-of-IdentityFile.p
 
 # Clone the mlops-zoom-repo
 If you wish to contribute directly from the remote server, connect your Github to the remote server. How?
-1. Create a ssh key using `ssh-keygen -t ed25519 -C "yourEmail@mail.com`. this should create 2 files (`ed25519` & `ed25519.pub`) in the `~/.ssh/` directory
+1. Create a ssh key using `ssh-keygen -t ed25519 -C "yourEmail@mail.com"`. this should create 2 files (`ed25519` & `ed25519.pub`) in the `~/.ssh/` directory
 2. Go to your github profile setting, find the SSH and GCP keys option and copy the info in ed25519.pub into the text bar. use any title 
-3. do `git clone git@github.com:EnthusiasticTeslim/mlops-zoomcamp.git`.
+3. do `git clone git@github.com:username/mlops-zoomcamp.git`.
 
 # References
 1. SSH in Github: https://www.youtube.com/watch?v=X40b9x9BFGo
