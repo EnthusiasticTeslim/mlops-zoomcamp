@@ -1,4 +1,4 @@
-# Machine Learning Operation Zoomcamp 
+# Machine Learning Operation Zoomcamp (Ongoing Summer 2024)
 > :warning: This repository serves as a collection of my learning notebooks for classwork and homework. Additionally, it includes notes to document information I don't want to forget.
 
 ### Course Objective
